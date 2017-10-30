@@ -1,0 +1,7 @@
+﻿04952494-6678-424f-9cdc-144f1840ddce.0\info-->und\04952494-6678-424f-9cdc-144f1840ddce.0\info
+04952494-6678-424f-9cdc-144f1840ddce.0\text-->ObjectModule.bsl
+2253547f-0892-46de-af56-725fc4086eea-->und\2253547f-0892-46de-af56-725fc4086eea
+copyinfo-->und\copyinfo
+root-->und\root
+version-->und\version
+versions-->und\versions
